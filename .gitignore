@@ -134,3 +134,4 @@ dmypy.json
 # Custom
 **/*.log
 **/*.mp3
+**/*.pth
