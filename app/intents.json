@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hej",
+        "Hallå",
+        "Hur står det till",
+        "Hur är läget",
+        "Tjenare",
+        "Tjingeling"
+      ],
+      "responses": [
+        "Hej",
+        "Hej, hallå",
+        "Tjenare, kan jag hjälpa till med något",
+        "God dag"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Farväl", 
+        "Hej då", 
+        "Ha det"
+      ],
+      "responses": [
+        "Ha det gott",
+        "Ha en bra dag",
+        "Hej då"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Tack", 
+        "Tack så mycket"
+      ],
+      "responses": [
+        "Inga problem", 
+        "Varsegod"
+      ]
+    },
+    {
+      "tag": "isabell",
+      "patterns": [
+        "Isabell", 
+        "Hej Isabell",
+        "Vad roligt att se dig"
+      ],
+      "responses": [
+        "Börja jobba nu Kristian", 
+        "Sluta lata dig Kristian",
+        "Gud, va bra det blir",
+        "Vilken stjära du är",
+        "Cava dags"
+      ]
+    }
+  ]
+}
